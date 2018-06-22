@@ -1,2 +1,3 @@
-# tfg_rutes_mallorca
-TFG Rutes Mallorca
+# TFG Rutes Mallorca
+TFG de la Universitat de les Illes Balears (UIB)
+Autor: Alejandro Gálvez Monje
