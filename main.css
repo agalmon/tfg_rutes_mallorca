@@ -1,0 +1,64 @@
+body, html {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    height: 100%;
+    color: white;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("1.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutus{
+  position: absolute;
+     margin: auto;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+  width: 35%;
+  height: 35%;
+  background-color: white;
+  padding: 15px;
+  opacity: 0.9;
+  border-radius: 20px;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+}
+.dialogflow{
+  margin: 20px;
+}
+
+.coordinates{
+  margin: 20px;
+  width: 75%;
+  height: 100px;
+  background-color: white;
+  opacity: 0.8;
+  border-radius: 20px;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+}
+.coordinates p
+{
+     position: relative;
+     top: 50%;
+     transform: perspective(1px) translateY(-50%);
+}
+
+.aboutus p
+{
+     position: relative;
+     top: 50%;
+     transform: perspective(1px) translateY(-50%);
+}
